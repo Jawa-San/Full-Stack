@@ -13,7 +13,7 @@ p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:norma
 </head>
 <body>
 <h1>SUCCESS</h1>
-<p>I wanted to just have anything here at all lol! Yo mama fat af lmfao</p>
+<p>I wanted to just have anything here at all Yo mama</p>
 <p class="link"><a href="logout.php">Click to LogOut</a></p>
 </body>
 </html>
