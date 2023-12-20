@@ -3,7 +3,7 @@
 <head>
 <!-- HTML Codes by Quackit.com -->
 <title>
-LeBorn Jahmes</title>
+Contact Manager</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {background-color:#ffffff;background-image:url(https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png);background-repeat:no-repeat;background-position:center center;background-attachment:fixed;}
@@ -13,7 +13,7 @@ p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:norma
 </head>
 <body>
 <h1>SUCCESS</h1>
-<p>I wanted to just have anything here at all Yo mama</p>
+<p>You have successfully logged in!</p>
 <p class="link"><a href="logout.php">Click to LogOut</a></p>
 </body>
 </html>
